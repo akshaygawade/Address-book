@@ -136,7 +136,7 @@ height="50" ></a>
         </div>
 
           <?php } else { ?>
-        <div class="well well-lg">No contacts found.</div>
+        <div class="well well-lg">contacts not found.</div>
 <?php } ?>
     </div>
   </div>
